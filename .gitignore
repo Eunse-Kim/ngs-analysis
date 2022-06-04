@@ -1,0 +1,14 @@
+
+ep2_interpret_samfile/L2.sorted.bam
+ep1_fastqfile_read/test.fastq
+ep2_interpret_samfile/answer.py
+ep2_interpret_samfile/getorichr.py
+ep2_interpret_samfile/test.py
+ep3_interpret_vcffile/interpret_vcffile_ver2.py
+ep4_interpret_asmfasta/interpret_asmfasta_2.py
+ep4_interpret_asmfasta/scaffolds.fasta
+ep5_interpret_gmass/version3.py
+ep5_interpret_gmass/mapping_before_ver.py
+ep5_interpret_gmass/Genomes.Order
+ep5_interpret_gmass/Conserved.Segments
+
