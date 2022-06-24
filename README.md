@@ -7,8 +7,7 @@
 3) Variant (small & large)
 
 ### Analysis Procedure
-
-<img width="618" alt="image" src="https://user-images.githubusercontent.com/96517645/175475779-23129607-746d-4ee9-aa5c-398ce3493e00.png">
+<img width="610" alt="스크린샷 2022-06-24 오후 5 04 35" src="https://user-images.githubusercontent.com/96517645/175491964-e7c7e3e3-b1f6-44a3-b048-ace89ee39412.png">
 
 1) Variant call Analysis
 2) Rearrangement Analysis
