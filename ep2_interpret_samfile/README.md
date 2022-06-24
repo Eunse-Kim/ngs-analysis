@@ -1,4 +1,4 @@
-## EP2. analyze SAM file
+## EP2. Read and Analyze SAM file
 
 1. Input: SAM file
 2. Output
