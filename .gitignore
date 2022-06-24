@@ -11,4 +11,7 @@ ep5_interpret_gmass/version3.py
 ep5_interpret_gmass/mapping_before_ver.py
 ep5_interpret_gmass/Genomes.Order
 ep5_interpret_gmass/Conserved.Segments
+ep3_interpret_vcffile/var_call_out.txt
+ep5_interpret_gmass/result_100000.txt
+ep5_interpret_gmass/result_200000.txt
 

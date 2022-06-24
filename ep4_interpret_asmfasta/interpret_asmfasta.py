@@ -45,6 +45,24 @@ for ln,n in dic_ln.items():
 		N50 = ln
 		break
 
+# N10
+n10_len = total/10
+add_len_n10 = 0
+for ln,n in dic_ln.items():
+	add_len_n10 += ln*n
+	if add_len_n10 >= n10_len:
+		n10 = ln
+		break
+
+#N90
+n90_len = (total/10)*9
+add_len_n90 = 0
+for ln,n in dic_ln.items():
+	add_len_n90 += ln*n
+	if add_len_n90 >= n90_len:
+		n90 = ln
+		break
+
 # result
 #1 
 print("The number of total sequences:",cnt)
@@ -56,3 +74,5 @@ print("The length of the longest sequences:",lgt)
 print("The length of the shortest sequences:",sht)
 #5
 print("N50:",N50)
+print("N10:",n10)
+print("M90",n90)

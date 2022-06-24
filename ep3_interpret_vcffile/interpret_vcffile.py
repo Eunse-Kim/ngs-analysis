@@ -20,7 +20,7 @@ for line in open(f,'r'):
 		for i in info_list:
 			if 'DP=' in i:
 				DP = float(i[3:])
-			if 'AF=' in i:
+			if "," not in i and 'AF=' in i:
 				AF = float(i[3:])
 
 		# requirement
