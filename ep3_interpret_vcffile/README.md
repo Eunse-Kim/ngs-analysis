@@ -1,4 +1,4 @@
-## EP3. analyze VCF file
+## EP3. Read and Analyze VCF file
 
 1. Input: VCF file
 2. Output
